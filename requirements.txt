@@ -1,0 +1,9 @@
+py-cord
+asyncio
+aiofiles
+python-dateutil
+python-dotenv
+google-genai
+apscheduler
+sqlalchemy
+customtkinter
