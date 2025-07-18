@@ -1,6 +1,7 @@
 py-cord
 asyncio
 aiofiles
+audioop-lts
 python-dateutil
 python-dotenv
 google-genai
